@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Islam Mohamed Abououf</h1>
 <h3 align="center">I'm Student at faculty of computer and artificial intelligence Cairo university|| I'm Software Engineer</h3>
 
-- 🔭 I’m currently working on **Back end of Restaurant**
+- 🔭 I’m currently working on **My Graduation Project (Semsark App)**
 
-- 🌱 I’m currently learning **Spring boot Framework**
+- 🌱 I’m currently learning **Spring boot Framework and Flutter**
 
-- 💬 Ask me about **Spring boot,Django, Laravel and Android**
+- 💬 Ask me about **Spring boot,Django, Laravel and Flutter**
 
-- 📫 How to reach me **eng.islam.abououf@gmail.com**
+- 📫 How to reach me **islammabououf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
