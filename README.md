@@ -3,7 +3,11 @@
 
 <p align="center">
 🎓 Computer Science graduate from Cairo University (Top 3 in class)  
-💻 Backend Developer @ Ejada Systems (ZATCA Project – Enterprise Integration)  
+</p>
+<p align="center">
+💻 Backend Developer @ Ejada Systems (ZATCA-AEOI Project – Enterprise Integration)  
+</p>
+<p align="center">
 🚀 Passionate about scalable APIs, clean code, DevOps, and system architecture  
 </p>
 
