@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Islam Mohamed Abououf 👋</h1>
 <h3 align="center">Software Engineer | Backend Developer | Integration Specialist</h3>
 
-<p align="center">
+<p align="left">
 🎓 Computer Science graduate from Cairo University (Top 3 in class)  
 </p>
-<p align="center">
+<p align="left">
 💻 Backend Developer @ Ejada Systems (ZATCA-AEOI Project – Enterprise Integration)  
 </p>
-<p align="center">
+<p align="left">
 🚀 Passionate about scalable APIs, clean code, DevOps, and system architecture  
 </p>
 
