@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Islam Mohamed Abououf 👋</h1>
-<h1 align="center">Software Engineer | Backend Developer | Integration Specialist</h1>
+<h1 align="left">Hi, I'm Islam Mohamed Abououf 👋</h1>
+<h3 align="left">Software Engineer | Backend Developer | Integration Specialist</h3>
 
 <p align="left">
 🎓 Computer Science graduate from Cairo University (Top 3 in class)  
